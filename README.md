@@ -169,7 +169,9 @@ After successfully importing all complete records contained in all the files, de
 
 - complete documents have been imported into your collection
 - complete documents could not be imported
-- corrupted documents exist in the fileset 
+- corrupted documents exist in the fileset
+
+This file can be manually calculated and populated. Your code does need to output this file.
 
 Note the number of records for each category in the file named `count.txt` and commit it to your repository.
 
